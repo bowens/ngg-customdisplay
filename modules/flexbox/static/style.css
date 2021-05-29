@@ -1,0 +1,15 @@
+.imagely-flexbox-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imagely-flexbox-container a {
+    display: inline-block;
+}
+
+.imagely-flexbox-container a img {
+    margin: 10px;
+    padding: 0;
+}
